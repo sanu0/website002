@@ -9,8 +9,10 @@
   font-family: 'PT Mono', monospace;
 }
 .pads1{
-  padding: 5%;
+
   padding-top: 7%;
+  padding-left: 2%;
+  padding-right:2%;
   color: #DAE3E8;
   font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
@@ -35,7 +37,7 @@
 .blogging-col-mycss{
   padding top: 1%;
   padding-bottom: 1%;
-  padding-left: 20%;
+  padding-left: 10%;
   padding-right: 1%;
 }
 .blogging-img-mycss{
