@@ -1,6 +1,11 @@
 #title{
   background-color: black;
 }
+body{
+  padding:1%;
+  background-color:grey;
+  }
+  
 #blogging-title{
   font-family: 'Ubuntu', sans-serif;
   background-color: #2F475F;
